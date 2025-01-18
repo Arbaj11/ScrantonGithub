@@ -1,0 +1,1345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Scanton\\Scanton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\singleproduct\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\singleproduct\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\home\\_shortbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\home\\_shortbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\viewcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\viewcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\viewcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\viewcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\videogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\videogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\videogallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\videogallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\videogallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\videogallery\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\banner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\videogallery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\videogallery\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\banner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\banner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\userrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\userrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\singleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\singleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\softbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\softbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\faqcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\storeprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\storeprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\footerdescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\footerdescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shortbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shortbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\categorypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\categorypages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\categorypagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\categorypagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\socialmedia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\socialmedia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\categorypages\\errorcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\categorypages\\errorcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\shortbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\shortbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\parentcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\parentcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\parentcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\parentcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\parentcategory\\_editparentcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\parentcategory\\_editparentcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shortbanner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shortbanner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\footerdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\footerdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\page\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\page\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\softbanner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\softbanner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\footerdescription\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\footerdescription\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\page\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\page\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\flashmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\flashmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\organic-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\footerdescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\footerdescription\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\controllers\\flashmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\controllers\\flashmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\flashmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\flashmessage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\flashmessage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\flashmessage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\flashmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\flashmessage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\footerdescription\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\footerdescription\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\socialmedia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\socialmedia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\shortbanner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\shortbanner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\socialmedia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\socialmedia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\storeprofile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\storeprofile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\storeprofile\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\storeprofile\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\storeprofile\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\storeprofile\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\softbanner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\softbanner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\models\\shortbannner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\models\\shortbannner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\softbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\softbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\views\\page\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\views\\page\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|d:\\scanton\\scanton\\scanton\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50CB99F5-72A8-4AA8-AB5D-6A36C3C09ABB}|Scanton\\Scanton.csproj|solutionrelative:scanton\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAgwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:08:54.324Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcDAAAAAAAAAAAQwC8DAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:43:48.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VideoGalleryController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\VideoGalleryController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\VideoGalleryController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\VideoGalleryController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\VideoGalleryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:14:44.247Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\BannerController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv2IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:40:52.167Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Scanton\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Scanton\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYUAAAAAAAAAAAcwAoUAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T10:26:20.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:03:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\ContactUs.cshtml*",
+              "RelativeToolTip": "Scanton\\Views\\Home\\ContactUs.cshtml*",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAgwOsBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T05:25:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SingleProduct\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SingleProduct\\ProductDetails.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SingleProduct\\ProductDetails.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SingleProduct\\ProductDetails.cshtml",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T11:08:34.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Scanton\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Scanton\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAB4DAAAAAAAAAAAAAFQCAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-04T09:42:18.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ShortBanner.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\_ShortBanner.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Home\\_ShortBanner.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Home\\_ShortBanner.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Home\\_ShortBanner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T04:55:32.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwJwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T11:39:06.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewCartController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ViewCartController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\ViewCartController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ViewCartController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\ViewCartController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T11:41:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ViewCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ViewCart\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ViewCart\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ViewCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T11:41:59.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoGallery.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\VideoGallery.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\VideoGallery.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\VideoGallery.cs",
+              "RelativeToolTip": "Scanton\\Models\\VideoGallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:12:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndexViewModel.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\IndexViewModel.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\IndexViewModel.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\IndexViewModel.cs",
+              "RelativeToolTip": "Scanton\\Models\\IndexViewModel.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAzwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:16:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:21:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAUwPYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:35:38.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\VideoGallery\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\VideoGallery\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\VideoGallery\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\VideoGallery\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T07:26:14.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Banner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Banner\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Banner\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Banner\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T08:36:03.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Banner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Banner\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Banner\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Banner\\Index.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T08:40:52.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\VideoGallery\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\VideoGallery\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\VideoGallery\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\VideoGallery\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwCQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T07:17:55.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Scanton\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:00:22.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRating.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\UserRating.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\UserRating.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\UserRating.cs",
+              "RelativeToolTip": "Scanton\\Models\\UserRating.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:42:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SingleProductController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SingleProductController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\SingleProductController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SingleProductController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\SingleProductController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwIgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:31:09.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreProfileController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\StoreProfileController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\StoreProfileController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\StoreProfileController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\StoreProfileController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:36:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FAQController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FAQController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\FAQController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FAQController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\FAQController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:40:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SoftBannerController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SoftBannerController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\SoftBannerController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SoftBannerController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\SoftBannerController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwIgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:50:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\PageController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\PageController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\PageController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:58:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SocialMediaController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SocialMediaController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\SocialMediaController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\SocialMediaController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\SocialMediaController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:31:44.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FooterDescriptionController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FooterDescriptionController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\FooterDescriptionController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FooterDescriptionController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\FooterDescriptionController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:22:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:50:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\Banner.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\Banner.cs",
+              "RelativeToolTip": "Scanton\\Models\\Banner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:36:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\CategoryPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\CategoryPages\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\CategoryPages\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\CategoryPages\\Index.cshtml",
+              "ViewState": "AgIAAKABAAAAAAAAAAAQwLgBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T13:13:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\Category.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\Category.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\Category.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\Category.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:14:58.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ShortBanner\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ShortBanner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:04:17.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryPagesController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\CategoryPagesController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\CategoryPagesController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\CategoryPagesController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\CategoryPagesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SocialMedia\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SocialMedia\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:42:58.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ParentCategory.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ParentCategory.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\ParentCategory.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ParentCategory.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\ParentCategory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:44:21.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShortBannerController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ShortBannerController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\ShortBannerController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\ShortBannerController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\ShortBannerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:50:47.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorCategory.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\CategoryPages\\ErrorCategory.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\CategoryPages\\ErrorCategory.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\CategoryPages\\ErrorCategory.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\CategoryPages\\ErrorCategory.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T09:18:12.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\Category.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\Category.cs",
+              "RelativeToolTip": "Scanton\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:30:05.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_EditParentCategory.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\_EditParentCategory.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ParentCategory\\_EditParentCategory.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\_EditParentCategory.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ParentCategory\\_EditParentCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T10:21:15.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ParentCategory\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ParentCategory\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:45:24.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ParentCategory.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\ParentCategory.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\ParentCategory.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\ParentCategory.cs",
+              "RelativeToolTip": "Scanton\\Models\\ParentCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:48:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ParentCategory\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ParentCategory\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ParentCategory\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:47:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:16:21.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ShortBanner\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ShortBanner\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T04:59:50.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\Product.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\Product.cs",
+              "RelativeToolTip": "Scanton\\Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T07:08:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:27:47.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Page.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\Page.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\Page.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\Page.cs",
+              "RelativeToolTip": "Scanton\\Models\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:55:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAiwIAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:02:28.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:26:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FooterDescription.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\FooterDescription.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\FooterDescription.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\FooterDescription.cs",
+              "RelativeToolTip": "Scanton\\Models\\FooterDescription.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:03:13.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:16:00.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\IndexController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\IndexController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:47:16.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FooterDescription\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FooterDescription\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:22:40.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SoftBanner\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SoftBanner\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:40:41.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Page\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Page\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:52:29.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FlashMessage.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\FlashMessage.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\FlashMessage.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\FlashMessage.cs",
+              "RelativeToolTip": "Scanton\\Models\\FlashMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:20:46.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Page\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Page\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:00:57.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FooterDescription\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FooterDescription\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:52:33.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\organic-1.0.0\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\organic-1.0.0\\index.html",
+              "ToolTip": "D:\\organic-1.0.0\\index.html",
+              "RelativeToolTip": "..\\..\\organic-1.0.0\\index.html",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAWwN4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-27T06:58:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\SocialMedia.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\SocialMedia.cs",
+              "RelativeToolTip": "Scanton\\Models\\SocialMedia.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:23:38.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SocialMedia\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SocialMedia\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:11:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FlashMessageController.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FlashMessageController.cs",
+              "RelativeDocumentMoniker": "Scanton\\Controllers\\FlashMessageController.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Controllers\\FlashMessageController.cs",
+              "RelativeToolTip": "Scanton\\Controllers\\FlashMessageController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:29:19.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FlashMessage\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FlashMessage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:31:25.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FlashMessage\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FlashMessage\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:32:41.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\Blog.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\Blog.cs",
+              "RelativeToolTip": "Scanton\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:24:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FlashMessage\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FlashMessage\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FlashMessage\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:31:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\FooterDescription\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\FooterDescription\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\FooterDescription\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T09:22:23.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SocialMedia\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SocialMedia\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SocialMedia\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:22:49.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\ShortBanner\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\ShortBanner\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\ShortBanner\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:00:47.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:21:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Blog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Blog\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Blog\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Blog\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:21:47.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\StoreProfile\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\StoreProfile\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:39:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\Create.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\StoreProfile\\Create.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\Create.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\StoreProfile\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:36:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\List.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\StoreProfile\\List.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\StoreProfile\\List.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\StoreProfile\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T05:36:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SoftBanner\\Index.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Index.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SoftBanner\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:14:27.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ShortBannner.cs",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Models\\ShortBannner.cs",
+              "RelativeDocumentMoniker": "Scanton\\Models\\ShortBannner.cs",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Models\\ShortBannner.cs",
+              "RelativeToolTip": "Scanton\\Models\\ShortBannner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:02:15.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\SoftBanner\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\SoftBanner\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\SoftBanner\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:42:17.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Scanton\\Views\\Page\\Edit.cshtml",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\Views\\Page\\Edit.cshtml",
+              "RelativeToolTip": "Scanton\\Views\\Page\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:03:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "custom.css",
+              "DocumentMoniker": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "Scanton\\wwwroot\\css\\custom.css",
+              "ToolTip": "D:\\Scanton\\Scanton\\Scanton\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "Scanton\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T10:31:54.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
